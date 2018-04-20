@@ -1,6 +1,6 @@
 {
   "name": "path-resolve",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Expands any path into an absolute path",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "home"
   ],
   "author": "Mark Kahn <m@vouchr.com>",
-  "license": "Unlicense",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/d9d/path-resolve/issues"
   },
